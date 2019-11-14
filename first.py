@@ -6,3 +6,4 @@ print("painter")
 #this is a bad formatted code
 for i in range(5):
     print("olleh")
+    print("mayaz")
